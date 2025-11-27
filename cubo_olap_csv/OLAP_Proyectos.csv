@@ -1,0 +1,474 @@
+id_hecho,nombre_proyecto,nombre_cliente,nombre_pais,ganancia_neta,costo_total_real
+1,Proy-2019-visualiza,"Santillán, Alarcón y Carbajal",Sudán,0.0,0
+2,Proy-2022-crece,Esparza-Galván A.C.,Lesotho,438800.79,680184
+3,Proy-2019-sinergiza,"Avilés, Rincón y Durán",Lesotho,138367.86,218736
+4,Proy-2016-redefine,Esparza-Galván A.C.,Lesotho,137510.65,384468
+5,Proy-2022-empodera,"Santillán, Alarcón y Carbajal",Sudán,64011.22,277722
+6,Proy-2016-innova,Durán-Pedraza,Luxemburgo,54437.85,126378
+7,Proy-2023-habilita,Despacho Cano-Macías,China,207056.73,408632
+8,Proy-2020-implementa,Salcido-Niño S.A.,Luxemburgo,128993.23,327050
+9,Proy-2020-incentiva,"Santillán, Alarcón y Carbajal",Sudán,27128.48,187600
+10,Proy-2017-implementa,"Santillán, Alarcón y Carbajal",Sudán,0.0,0
+11,Proy-2020-abraza,Vera y Cardenas e Hijos,Santa Lucía,141263.68,360650
+12,Proy-2016-abraza,de Jesús e Hijos,Kirguistán,264443.75,500556
+13,Proy-2022-redefine,Esquivel-Ríos,Madagascar,94656.88,171342
+14,Proy-2017-modifica,Durán-Pedraza,Luxemburgo,152499.02,867240
+15,Proy-2016-incentiva,"Club Granado, Villareal y Rivera",Santa Lucía,32199.34,994854
+16,Proy-2021-compromete,"Club Granado, Villareal y Rivera",Santa Lucía,179398.53,346424
+17,Proy-2022-transforma,Vera y Cardenas e Hijos,Santa Lucía,165260.32,387936
+18,Proy-2020-maximiza,Salcido-Niño S.A.,Luxemburgo,99465.57,357100
+19,Proy-2017-crece,Industrias Saldaña-Gastélum,China,0.0,0
+20,Proy-2016-utiliza,Club Robles y Ocasio,Madagascar,156341.33,585228
+21,Proy-2020-incentiva,Despacho Cano-Macías,China,430703.97,590150
+22,Proy-2019-visualiza,de Jesús e Hijos,Kirguistán,119748.5,460320
+23,Proy-2017-transforma,Esquivel-Ríos,Madagascar,202604.26,447480
+24,Proy-2017-compromete,"Industrias Riojas, Marroquín y Verdugo",Kazajstán,410771.45,851752
+25,Proy-2023-empodera,Club Robles y Ocasio,Madagascar,68687.14,631456
+26,Proy-2022-transiciona,Salcido-Niño S.A.,Luxemburgo,106888.0,578934
+27,Proy-2024-incuba,"Industrias Riojas, Marroquín y Verdugo",Kazajstán,433170.09,1292414
+28,Proy-2020-utiliza,"Santillán, Alarcón y Carbajal",Sudán,121734.94,365350
+29,Proy-2017-maneja,Rubio y Gastélum S.C.,Kazajstán,181850.67,739508
+30,Proy-2024-reinventa,Barraza y Carvajal S.C.,Serbia,48922.33,386164
+31,Proy-2021-habilita,"Avilés, Rincón y Durán",Lesotho,0.0,0
+32,Proy-2017-maximiza,"Santillán, Alarcón y Carbajal",Sudán,78606.65,330440
+33,Proy-2022-mezcla,"Santillán, Alarcón y Carbajal",Sudán,207663.2,792234
+34,Proy-2023-compromete,Parra y Osorio S. R.L. de C.V.,Luxemburgo,107363.22,199472
+35,Proy-2025-transiciona,Despacho Cano-Macías,China,22881.2,258854
+36,Proy-2024-revoluciona,Esquivel-Ríos,Madagascar,166241.23,1306508
+37,Proy-2020-implementa,"Avilés, Rincón y Durán",Lesotho,182398.14,547050
+38,Proy-2024-innova,Club Robles y Ocasio,Madagascar,97639.98,378856
+39,Proy-2019-integra,"Santillán, Alarcón y Carbajal",Sudán,137476.82,256656
+40,Proy-2023-entrega,Proyectos Zambrano-Benítez,Madagascar,281070.64,520632
+41,Proy-2023-libera,Despacho Cano-Macías,China,60697.73,130984
+42,Proy-2015-cultiva,Durán-Pedraza,Luxemburgo,83909.51,246800
+43,Proy-2024-maximiza,Despacho Cano-Macías,China,132542.62,810666
+44,Proy-2018-recontextualiza,"Santillán, Alarcón y Carbajal",Sudán,111119.48,182528
+45,Proy-2024-monetiza,"Club Granado, Villareal y Rivera",Santa Lucía,0.0,0
+46,Proy-2016-revoluciona,Industrias Saldaña-Gastélum,China,165127.48,366324
+47,Proy-2022-implementa,"Santillán, Alarcón y Carbajal",Sudán,112021.99,515268
+48,Proy-2020-explota,Vera y Cardenas e Hijos,Santa Lucía,13646.14,45200
+49,Proy-2021-maximiza,"Avilés, Rincón y Durán",Lesotho,305507.95,586404
+50,Proy-2016-modifica,"Santillán, Alarcón y Carbajal",Sudán,91222.89,716940
+51,Proy-2019-evoluciona,"Club Granado, Villareal y Rivera",Santa Lucía,74842.73,213312
+52,Proy-2017-explota,"Avilés, Rincón y Durán",Lesotho,108824.74,338184
+53,Proy-2017-evoluciona,Barraza y Carvajal S.C.,Serbia,182777.88,552948
+54,Proy-2025-mejora,Proyectos Zambrano-Benítez,Madagascar,78221.14,570300
+55,Proy-2021-fortalece,Despacho Cano-Macías,China,83394.25,310336
+56,Proy-2021-crece,Salcido-Niño S.A.,Luxemburgo,234709.94,799656
+57,Proy-2018-monetiza,"Avilés, Rincón y Durán",Lesotho,35210.91,95542
+58,Proy-2016-agrega,Coronado-Torres,Kazajstán,40535.22,90930
+59,Proy-2021-sintetiza,"Industrias Riojas, Marroquín y Verdugo",Kazajstán,73496.27,212992
+60,Proy-2021-crea,Proyectos Zambrano-Benítez,Madagascar,159258.91,426504
+61,Proy-2024-recontextualiza,Rubio y Gastélum S.C.,Kazajstán,55012.48,187630
+62,Proy-2021-habilita,Romero-de Anda A.C.,Lesotho,0.0,0
+63,Proy-2016-optimiza,Esparza-Galván A.C.,Lesotho,111370.58,275814
+64,Proy-2023-agrega,"Avilés, Rincón y Durán",Lesotho,190507.17,569464
+65,Proy-2020-mezcla,"Santillán, Alarcón y Carbajal",Sudán,356614.6,947000
+66,Proy-2019-sintetiza,Club Robles y Ocasio,Madagascar,292363.08,1306464
+67,Proy-2019-genera,"Club Granado, Villareal y Rivera",Santa Lucía,136498.29,481824
+68,Proy-2023-genera,Parra y Osorio S. R.L. de C.V.,Luxemburgo,173252.13,719040
+69,Proy-2019-modifica,Club Robles y Ocasio,Madagascar,67766.29,151440
+70,Proy-2017-facilita,Parra y Osorio S. R.L. de C.V.,Luxemburgo,55958.05,128612
+71,Proy-2020-reinventa,Industrias Saldaña-Gastélum,China,29311.35,172650
+72,Proy-2024-entrega,Esparza-Galván A.C.,Lesotho,142686.61,453908
+73,Proy-2016-incuba,Barraza y Carvajal S.C.,Serbia,214567.79,418530
+74,Proy-2020-entrega,Parra y Osorio S. R.L. de C.V.,Luxemburgo,265695.68,701600
+75,Proy-2021-empodera,"Santillán, Alarcón y Carbajal",Sudán,14807.37,131820
+76,Proy-2022-abraza,Parra y Osorio S. R.L. de C.V.,Luxemburgo,199035.94,456732
+77,Proy-2018-explota,Salcido-Niño S.A.,Luxemburgo,224348.9,637330
+78,Proy-2018-revoluciona,Industrias Saldaña-Gastélum,China,255555.31,757850
+79,Proy-2019-cultiva,Esparza-Galván A.C.,Lesotho,219231.32,1154976
+80,Proy-2024-entrega,Proyectos Zambrano-Benítez,Madagascar,53981.01,215586
+81,Proy-2016-transiciona,Vera y Cardenas e Hijos,Santa Lucía,32032.03,140910
+82,Proy-2021-monetiza,de Jesús e Hijos,Kirguistán,489538.97,961584
+83,Proy-2020-implementa,"Club Granado, Villareal y Rivera",Santa Lucía,168326.8,419750
+84,Proy-2018-mezcla,"Avilés, Rincón y Durán",Lesotho,362281.83,614146
+85,Proy-2017-incentiva,"Industrias Riojas, Marroquín y Verdugo",Kazajstán,130605.35,486288
+86,Proy-2018-incentiva,Vera y Cardenas e Hijos,Santa Lucía,63715.84,241592
+87,Proy-2018-explota,Salcido-Niño S.A.,Luxemburgo,187814.57,589104
+88,Proy-2018-itera,Proyectos Zambrano-Benítez,Madagascar,123072.43,220570
+89,Proy-2016-visualiza,Parra y Osorio S. R.L. de C.V.,Luxemburgo,52010.4,281484
+90,Proy-2019-evoluciona,Parra y Osorio S. R.L. de C.V.,Luxemburgo,104009.3,658512
+91,Proy-2017-sintetiza,"Avilés, Rincón y Durán",Lesotho,130497.04,362604
+92,Proy-2018-cultiva,Esquivel-Ríos,Madagascar,40350.92,155204
+93,Proy-2024-visualiza,Romero-de Anda A.C.,Lesotho,64273.52,198824
+94,Proy-2024-sintetiza,"Avilés, Rincón y Durán",Lesotho,267023.75,592934
+95,Proy-2017-entrega,"Santillán, Alarcón y Carbajal",Sudán,164421.55,448272
+96,Proy-2023-facilita,Parra y Osorio S. R.L. de C.V.,Luxemburgo,126550.85,579040
+97,Proy-2023-explota,Parra y Osorio S. R.L. de C.V.,Luxemburgo,124208.43,403424
+98,Proy-2020-evoluciona,de Jesús e Hijos,Kirguistán,241409.35,1227350
+99,Proy-2022-extiende,"Márquez, Carbajal y Aranda",Serbia,184013.42,1019088
+100,Proy-2019-agrega,Vera y Cardenas e Hijos,Santa Lucía,254455.64,477456
+101,Proy-2017-redefine,Esparza-Galván A.C.,Lesotho,86131.92,132264
+102,Proy-2016-mejora,de Jesús e Hijos,Kirguistán,104095.97,590940
+103,Proy-2017-habilita,de Jesús e Hijos,Kirguistán,0.0,0
+104,Proy-2024-empodera,de Jesús e Hijos,Kirguistán,70454.17,314012
+105,Proy-2025-sintetiza,de Jesús e Hijos,Kirguistán,226105.65,935580
+106,Proy-2021-facilita,de Jesús e Hijos,Kirguistán,108917.33,320424
+107,Proy-2015-innova,Industrias Saldaña-Gastélum,China,108575.14,498800
+108,Proy-2019-utiliza,Rubio y Gastélum S.C.,Kazajstán,27600.5,341712
+109,Proy-2021-empodera,Coronado-Torres,Kazajstán,163162.87,442208
+110,Proy-2020-monetiza,Proyectos Zambrano-Benítez,Madagascar,46168.28,457650
+111,Proy-2022-integra,Club Robles y Ocasio,Madagascar,142249.35,434214
+112,Proy-2024-revoluciona,Proyectos Zambrano-Benítez,Madagascar,0.0,0
+113,Proy-2019-transforma,Parra y Osorio S. R.L. de C.V.,Luxemburgo,120250.38,554544
+114,Proy-2024-implementa,Esparza-Galván A.C.,Lesotho,103608.79,286288
+115,Proy-2019-extiende,"Santillán, Alarcón y Carbajal",Sudán,90712.84,290352
+116,Proy-2018-transiciona,Esparza-Galván A.C.,Lesotho,149448.0,541696
+117,Proy-2017-incuba,Barraza y Carvajal S.C.,Serbia,142204.69,189376
+118,Proy-2017-sinergiza,"Santillán, Alarcón y Carbajal",Sudán,47740.78,96580
+119,Proy-2018-transiciona,Rubio y Gastélum S.C.,Kazajstán,143783.32,390264
+120,Proy-2019-revoluciona,Esquivel-Ríos,Madagascar,64803.42,227712
+121,Proy-2018-modifica,Rubio y Gastélum S.C.,Kazajstán,538031.18,873264
+122,Proy-2020-modifica,Vera y Cardenas e Hijos,Santa Lucía,238826.96,954250
+123,Proy-2024-innova,Romero-de Anda A.C.,Lesotho,134325.88,253692
+124,Proy-2019-incuba,Club Robles y Ocasio,Madagascar,47892.42,211872
+125,Proy-2019-reinventa,Esquivel-Ríos,Madagascar,37829.49,166320
+126,Proy-2020-evoluciona,Despacho Cano-Macías,China,182532.14,396350
+127,Proy-2022-abraza,Despacho Cano-Macías,China,30241.81,141750
+128,Proy-2016-escala,Parra y Osorio S. R.L. de C.V.,Luxemburgo,94125.93,217308
+129,Proy-2017-facilita,Barraza y Carvajal S.C.,Serbia,133505.99,533016
+130,Proy-2019-utiliza,Barraza y Carvajal S.C.,Serbia,162224.53,619680
+131,Proy-2019-empodera,"Santillán, Alarcón y Carbajal",Sudán,69209.41,288432
+132,Proy-2016-incuba,Parra y Osorio S. R.L. de C.V.,Luxemburgo,253805.65,564354
+133,Proy-2018-optimiza,Durán-Pedraza,Luxemburgo,56913.31,130502
+134,Proy-2021-incuba,"Santillán, Alarcón y Carbajal",Sudán,0.0,0
+135,Proy-2018-integra,Parra y Osorio S. R.L. de C.V.,Luxemburgo,193666.97,437000
+136,Proy-2023-escala,Proyectos Zambrano-Benítez,Madagascar,79631.88,128800
+137,Proy-2016-sinergiza,Vera y Cardenas e Hijos,Santa Lucía,57905.4,219912
+138,Proy-2016-redefine,Coronado-Torres,Kazajstán,102470.55,436296
+139,Proy-2024-entrega,Barraza y Carvajal S.C.,Serbia,67676.13,283446
+140,Proy-2016-mejora,"Industrias Riojas, Marroquín y Verdugo",Kazajstán,0.0,0
+141,Proy-2021-sinergiza,Salcido-Niño S.A.,Luxemburgo,49214.23,207532
+142,Proy-2024-redefine,Despacho Cano-Macías,China,19421.04,267380
+143,Proy-2018-reinventa,Esparza-Galván A.C.,Lesotho,261263.0,521916
+144,Proy-2024-transforma,Barraza y Carvajal S.C.,Serbia,163588.98,682080
+145,Proy-2022-recontextualiza,Esparza-Galván A.C.,Lesotho,0.0,0
+146,Proy-2019-innova,Rubio y Gastélum S.C.,Kazajstán,302194.41,822672
+147,Proy-2025-libera,Barraza y Carvajal S.C.,Serbia,36255.92,98460
+148,Proy-2015-crece,"Avilés, Rincón y Durán",Lesotho,111683.06,594280
+149,Proy-2021-compromete,Durán-Pedraza,Luxemburgo,32828.26,129064
+150,Proy-2017-innova,Durán-Pedraza,Luxemburgo,10503.45,153692
+151,Proy-2018-escala,Coronado-Torres,Kazajstán,405395.22,980352
+152,Proy-2018-habilita,"Santillán, Alarcón y Carbajal",Sudán,222812.39,611340
+153,Proy-2024-mezcla,"Avilés, Rincón y Durán",Lesotho,120807.62,344694
+154,Proy-2021-mezcla,Parra y Osorio S. R.L. de C.V.,Luxemburgo,124903.59,341276
+155,Proy-2019-facilita,de Jesús e Hijos,Kirguistán,113751.61,423264
+156,Proy-2016-maximiza,"Santillán, Alarcón y Carbajal",Sudán,0.0,0
+157,Proy-2022-transiciona,Durán-Pedraza,Luxemburgo,127757.4,261306
+158,Proy-2017-utiliza,"Club Granado, Villareal y Rivera",Santa Lucía,116017.55,725736
+159,Proy-2022-recontextualiza,Durán-Pedraza,Luxemburgo,59387.76,461592
+160,Proy-2016-compromete,Vera y Cardenas e Hijos,Santa Lucía,0.0,0
+161,Proy-2020-transiciona,Industrias Saldaña-Gastélum,China,127374.67,627600
+162,Proy-2018-redefine,"Avilés, Rincón y Durán",Lesotho,181110.61,370070
+163,Proy-2019-itera,Durán-Pedraza,Luxemburgo,269207.07,663456
+164,Proy-2016-mezcla,"Santillán, Alarcón y Carbajal",Sudán,81620.28,495012
+165,Proy-2019-entrega,Club Robles y Ocasio,Madagascar,0.0,0
+166,Proy-2016-innova,"Márquez, Carbajal y Aranda",Serbia,103277.68,338520
+167,Proy-2017-compromete,Industrias Saldaña-Gastélum,China,26179.87,81224
+168,Proy-2019-innova,Coronado-Torres,Kazajstán,275177.08,814416
+169,Proy-2016-modifica,Proyectos Zambrano-Benítez,Madagascar,75020.82,278082
+170,Proy-2025-incuba,Rubio y Gastélum S.C.,Kazajstán,13873.92,218040
+171,Proy-2021-extiende,Vera y Cardenas e Hijos,Santa Lucía,325016.17,744588
+172,Proy-2016-transforma,"Avilés, Rincón y Durán",Lesotho,115813.06,1044078
+173,Proy-2018-entrega,Despacho Cano-Macías,China,247112.48,771696
+174,Proy-2020-compromete,Coronado-Torres,Kazajstán,49857.15,374050
+175,Proy-2024-revoluciona,Parra y Osorio S. R.L. de C.V.,Luxemburgo,385262.68,739210
+176,Proy-2021-implementa,Rubio y Gastélum S.C.,Kazajstán,27386.88,986024
+177,Proy-2017-libera,Proyectos Zambrano-Benítez,Madagascar,56716.65,178728
+178,Proy-2016-evoluciona,Industrias Saldaña-Gastélum,China,31651.97,126546
+179,Proy-2020-empodera,"Márquez, Carbajal y Aranda",Serbia,503793.6,1026800
+180,Proy-2021-extiende,de Jesús e Hijos,Kirguistán,93524.81,297648
+181,Proy-2022-transiciona,Durán-Pedraza,Luxemburgo,84053.24,414774
+182,Proy-2019-orquesta,Proyectos Zambrano-Benítez,Madagascar,38106.15,66528
+183,Proy-2016-sinergiza,Parra y Osorio S. R.L. de C.V.,Luxemburgo,111991.86,339570
+184,Proy-2019-abraza,Esparza-Galván A.C.,Lesotho,116998.91,330000
+185,Proy-2023-modifica,Parra y Osorio S. R.L. de C.V.,Luxemburgo,165267.45,449008
+186,Proy-2017-empodera,Proyectos Zambrano-Benítez,Madagascar,39087.22,1089660
+187,Proy-2020-redefine,Barraza y Carvajal S.C.,Serbia,129338.6,429550
+188,Proy-2023-orquesta,Club Robles y Ocasio,Madagascar,181078.16,1039024
+189,Proy-2022-utiliza,Salcido-Niño S.A.,Luxemburgo,248432.28,598644
+190,Proy-2019-itera,Salcido-Niño S.A.,Luxemburgo,397468.85,975072
+191,Proy-2024-monetiza,Coronado-Torres,Kazajstán,318632.37,1476100
+192,Proy-2017-fortalece,de Jesús e Hijos,Kirguistán,101512.93,460592
+193,Proy-2022-habilita,Esquivel-Ríos,Madagascar,59027.56,254232
+194,Proy-2023-facilita,Esquivel-Ríos,Madagascar,342088.53,589512
+195,Proy-2023-incuba,"Márquez, Carbajal y Aranda",Serbia,437079.12,879032
+196,Proy-2018-orquesta,"Márquez, Carbajal y Aranda",Serbia,24290.16,54556
+197,Proy-2025-compromete,Rubio y Gastélum S.C.,Kazajstán,93413.81,143640
+198,Proy-2025-entrega,"Márquez, Carbajal y Aranda",Serbia,68248.37,535260
+199,Proy-2021-cultiva,Barraza y Carvajal S.C.,Serbia,41555.27,108680
+200,Proy-2020-transforma,"Márquez, Carbajal y Aranda",Serbia,613103.58,910450
+201,Proy-2024-cultiva,Coronado-Torres,Kazajstán,243860.71,897782
+202,Proy-2024-entrega,Vera y Cardenas e Hijos,Santa Lucía,134073.52,252880
+203,Proy-2016-fortalece,"Santillán, Alarcón y Carbajal",Sudán,169030.48,632562
+204,Proy-2016-transforma,Industrias Saldaña-Gastélum,China,110269.01,393204
+205,Proy-2020-redefine,Romero-de Anda A.C.,Lesotho,248862.65,744700
+206,Proy-2018-cultiva,"Avilés, Rincón y Durán",Lesotho,194672.75,638388
+207,Proy-2017-mejora,"Avilés, Rincón y Durán",Lesotho,162375.13,428780
+208,Proy-2017-reinventa,"Industrias Riojas, Marroquín y Verdugo",Kazajstán,149092.82,992200
+209,Proy-2016-revoluciona,Barraza y Carvajal S.C.,Serbia,42288.86,76482
+210,Proy-2017-abraza,Proyectos Zambrano-Benítez,Madagascar,59146.75,106524
+211,Proy-2023-facilita,de Jesús e Hijos,Kirguistán,48983.42,299264
+212,Proy-2019-transiciona,Rubio y Gastélum S.C.,Kazajstán,66721.55,91920
+213,Proy-2021-redefine,Industrias Saldaña-Gastélum,China,167660.87,487760
+214,Proy-2020-reinventa,"Santillán, Alarcón y Carbajal",Sudán,56537.05,194950
+215,Proy-2017-extiende,Vera y Cardenas e Hijos,Santa Lucía,162440.65,286352
+216,Proy-2020-compromete,"Santillán, Alarcón y Carbajal",Sudán,183774.6,444600
+217,Proy-2016-evoluciona,Proyectos Zambrano-Benítez,Madagascar,29320.06,84210
+218,Proy-2020-fortalece,Vera y Cardenas e Hijos,Santa Lucía,83133.71,362000
+219,Proy-2022-abraza,Parra y Osorio S. R.L. de C.V.,Luxemburgo,273501.5,545292
+220,Proy-2021-utiliza,Romero-de Anda A.C.,Lesotho,170215.08,978588
+221,Proy-2023-escala,Romero-de Anda A.C.,Lesotho,7040.93,50848
+222,Proy-2020-recontextualiza,Barraza y Carvajal S.C.,Serbia,138130.8,825200
+223,Proy-2018-mejora,Vera y Cardenas e Hijos,Santa Lucía,0.0,0
+224,Proy-2019-maximiza,Vera y Cardenas e Hijos,Santa Lucía,180952.14,354048
+225,Proy-2018-abraza,Romero-de Anda A.C.,Lesotho,80050.27,1106760
+226,Proy-2017-itera,Romero-de Anda A.C.,Lesotho,99306.79,259512
+227,Proy-2021-incuba,Durán-Pedraza,Luxemburgo,36690.54,111748
+228,Proy-2023-genera,"Santillán, Alarcón y Carbajal",Sudán,0.0,0
+229,Proy-2021-implementa,"Industrias Riojas, Marroquín y Verdugo",Kazajstán,56318.83,255892
+230,Proy-2019-orquesta,"Márquez, Carbajal y Aranda",Serbia,65548.92,502896
+231,Proy-2018-transforma,Coronado-Torres,Kazajstán,120997.24,273654
+232,Proy-2023-orquesta,Rubio y Gastélum S.C.,Kazajstán,308233.41,839440
+233,Proy-2023-transforma,Salcido-Niño S.A.,Luxemburgo,179960.58,434754
+234,Proy-2016-mezcla,Barraza y Carvajal S.C.,Serbia,259532.24,709842
+235,Proy-2015-modifica,Coronado-Torres,Kazajstán,204483.51,915320
+236,Proy-2022-recontextualiza,Rubio y Gastélum S.C.,Kazajstán,0.0,0
+237,Proy-2024-sintetiza,"Santillán, Alarcón y Carbajal",Sudán,123740.9,313374
+238,Proy-2023-evoluciona,Industrias Saldaña-Gastélum,China,56230.36,245448
+239,Proy-2018-mezcla,Proyectos Zambrano-Benítez,Madagascar,36117.4,124108
+240,Proy-2024-sinergiza,Esquivel-Ríos,Madagascar,283191.68,422124
+241,Proy-2016-visualiza,"Avilés, Rincón y Durán",Lesotho,297954.02,641340
+242,Proy-2017-redefine,Vera y Cardenas e Hijos,Santa Lucía,13357.57,172128
+243,Proy-2018-cultiva,"Club Granado, Villareal y Rivera",Santa Lucía,29296.51,225216
+244,Proy-2021-entrega,Coronado-Torres,Kazajstán,0.0,0
+245,Proy-2016-extiende,Barraza y Carvajal S.C.,Serbia,63321.9,296646
+246,Proy-2024-mejora,Club Robles y Ocasio,Madagascar,213993.39,493116
+247,Proy-2016-evoluciona,Rubio y Gastélum S.C.,Kazajstán,38761.24,224238
+248,Proy-2025-utiliza,"Márquez, Carbajal y Aranda",Serbia,279230.48,1003080
+249,Proy-2022-optimiza,Club Robles y Ocasio,Madagascar,97111.6,255960
+250,Proy-2019-mezcla,Barraza y Carvajal S.C.,Serbia,120483.05,292176
+251,Proy-2016-crece,"Club Granado, Villareal y Rivera",Santa Lucía,184770.2,690774
+252,Proy-2021-evoluciona,Club Robles y Ocasio,Madagascar,133701.91,233272
+253,Proy-2018-visualiza,Coronado-Torres,Kazajstán,113661.4,360916
+254,Proy-2016-explota,Romero-de Anda A.C.,Lesotho,285680.24,441672
+255,Proy-2023-utiliza,"Industrias Riojas, Marroquín y Verdugo",Kazajstán,86940.54,351456
+256,Proy-2019-cultiva,Romero-de Anda A.C.,Lesotho,314288.41,773088
+257,Proy-2019-redefine,Esparza-Galván A.C.,Lesotho,158506.14,554352
+258,Proy-2020-habilita,Barraza y Carvajal S.C.,Serbia,475064.97,1195700
+259,Proy-2017-itera,Club Robles y Ocasio,Madagascar,32682.44,85096
+260,Proy-2018-implementa,Despacho Cano-Macías,China,174059.37,289754
+261,Proy-2020-transforma,Despacho Cano-Macías,China,129008.79,265150
+262,Proy-2019-transiciona,Esparza-Galván A.C.,Lesotho,44054.08,364272
+263,Proy-2022-redefine,"Club Granado, Villareal y Rivera",Santa Lucía,19731.3,61560
+264,Proy-2019-cultiva,Club Robles y Ocasio,Madagascar,90615.23,224976
+265,Proy-2019-abraza,Romero-de Anda A.C.,Lesotho,47234.97,380592
+266,Proy-2017-incuba,"Industrias Riojas, Marroquín y Verdugo",Kazajstán,115658.27,265540
+267,Proy-2018-facilita,"Club Granado, Villareal y Rivera",Santa Lucía,38194.77,204516
+268,Proy-2016-modifica,Salcido-Niño S.A.,Luxemburgo,0.0,0
+269,Proy-2017-transiciona,Proyectos Zambrano-Benítez,Madagascar,161674.68,382184
+270,Proy-2024-transforma,"Márquez, Carbajal y Aranda",Serbia,67645.4,601170
+271,Proy-2018-incentiva,Parra y Osorio S. R.L. de C.V.,Luxemburgo,70733.81,467360
+272,Proy-2019-incentiva,Coronado-Torres,Kazajstán,177370.46,297984
+273,Proy-2016-sinergiza,Coronado-Torres,Kazajstán,108986.93,494592
+274,Proy-2024-extiende,"Santillán, Alarcón y Carbajal",Sudán,0.0,0
+275,Proy-2021-habilita,Club Robles y Ocasio,Madagascar,251554.27,825864
+276,Proy-2023-monetiza,"Industrias Riojas, Marroquín y Verdugo",Kazajstán,61129.58,212296
+277,Proy-2024-utiliza,Barraza y Carvajal S.C.,Serbia,52569.62,419572
+278,Proy-2018-innova,"Avilés, Rincón y Durán",Lesotho,308249.28,1125528
+279,Proy-2021-agrega,"Industrias Riojas, Marroquín y Verdugo",Kazajstán,124512.58,823368
+280,Proy-2019-incuba,Barraza y Carvajal S.C.,Serbia,141291.67,276432
+281,Proy-2021-recontextualiza,Barraza y Carvajal S.C.,Serbia,149141.12,371124
+282,Proy-2023-redefine,Salcido-Niño S.A.,Luxemburgo,31592.95,331352
+283,Proy-2020-incuba,"Márquez, Carbajal y Aranda",Serbia,93331.54,373900
+284,Proy-2018-revoluciona,Club Robles y Ocasio,Madagascar,118309.19,440772
+285,Proy-2023-transiciona,Esparza-Galván A.C.,Lesotho,183897.27,299824
+286,Proy-2020-abraza,Romero-de Anda A.C.,Lesotho,28028.78,274600
+287,Proy-2017-reinventa,Esparza-Galván A.C.,Lesotho,63574.9,143924
+288,Proy-2023-empodera,Parra y Osorio S. R.L. de C.V.,Luxemburgo,0.0,0
+289,Proy-2024-revoluciona,Vera y Cardenas e Hijos,Santa Lucía,231897.19,752028
+290,Proy-2020-mezcla,Coronado-Torres,Kazajstán,53901.65,165750
+291,Proy-2024-entrega,Barraza y Carvajal S.C.,Serbia,119505.35,210598
+292,Proy-2018-modifica,Proyectos Zambrano-Benítez,Madagascar,0.0,0
+293,Proy-2022-utiliza,Barraza y Carvajal S.C.,Serbia,122349.91,430920
+294,Proy-2018-maneja,Parra y Osorio S. R.L. de C.V.,Luxemburgo,307752.97,887662
+295,Proy-2017-compromete,Rubio y Gastélum S.C.,Kazajstán,150729.58,718652
+296,Proy-2016-incentiva,"Márquez, Carbajal y Aranda",Serbia,41339.38,164976
+297,Proy-2024-revoluciona,"Márquez, Carbajal y Aranda",Serbia,139419.9,645714
+298,Proy-2017-incentiva,Salcido-Niño S.A.,Luxemburgo,52900.94,941864
+299,Proy-2016-libera,Vera y Cardenas e Hijos,Santa Lucía,159312.49,295932
+300,Proy-2016-implementa,"Club Granado, Villareal y Rivera",Santa Lucía,90479.24,580608
+301,Proy-2023-compromete,Durán-Pedraza,Luxemburgo,261101.21,1157520
+302,Proy-2016-facilita,Esquivel-Ríos,Madagascar,189060.15,471618
+303,Proy-2021-entrega,Rubio y Gastélum S.C.,Kazajstán,77802.15,238888
+304,Proy-2025-extiende,Industrias Saldaña-Gastélum,China,9961.02,92940
+305,Proy-2019-compromete,"Santillán, Alarcón y Carbajal",Sudán,34572.71,110976
+306,Proy-2019-crece,"Márquez, Carbajal y Aranda",Serbia,65999.49,989808
+307,Proy-2019-optimiza,Rubio y Gastélum S.C.,Kazajstán,208926.06,402288
+308,Proy-2025-maximiza,"Industrias Riojas, Marroquín y Verdugo",Kazajstán,32962.98,119640
+309,Proy-2020-integra,Industrias Saldaña-Gastélum,China,566559.66,793300
+310,Proy-2022-orquesta,Parra y Osorio S. R.L. de C.V.,Luxemburgo,269346.17,711774
+311,Proy-2016-facilita,Proyectos Zambrano-Benítez,Madagascar,6641.49,60228
+312,Proy-2023-entrega,Esparza-Galván A.C.,Lesotho,329472.65,1028552
+313,Proy-2021-libera,Parra y Osorio S. R.L. de C.V.,Luxemburgo,501477.99,744952
+314,Proy-2018-mezcla,Industrias Saldaña-Gastélum,China,0.0,0
+315,Proy-2019-genera,Industrias Saldaña-Gastélum,China,207078.26,1345008
+316,Proy-2017-itera,Despacho Cano-Macías,China,95402.61,405988
+317,Proy-2016-redefine,de Jesús e Hijos,Kirguistán,15184.6,92400
+318,Proy-2017-sinergiza,"Avilés, Rincón y Durán",Lesotho,81766.09,214588
+319,Proy-2019-innova,Romero-de Anda A.C.,Lesotho,181440.36,1159488
+320,Proy-2019-itera,Barraza y Carvajal S.C.,Serbia,260181.76,911184
+321,Proy-2017-itera,Durán-Pedraza,Luxemburgo,95231.63,219032
+322,Proy-2022-implementa,"Santillán, Alarcón y Carbajal",Sudán,385225.85,750978
+323,Proy-2020-innova,Vera y Cardenas e Hijos,Santa Lucía,174633.87,448350
+324,Proy-2016-habilita,"Santillán, Alarcón y Carbajal",Sudán,51322.41,534702
+325,Proy-2017-itera,Industrias Saldaña-Gastélum,China,58498.06,299376
+326,Proy-2022-incuba,"Avilés, Rincón y Durán",Lesotho,176560.16,476604
+327,Proy-2018-orquesta,"Club Granado, Villareal y Rivera",Santa Lucía,25518.69,106398
+328,Proy-2019-mejora,Rubio y Gastélum S.C.,Kazajstán,117567.21,190896
+329,Proy-2017-transiciona,de Jesús e Hijos,Kirguistán,190571.68,337700
+330,Proy-2018-libera,"Club Granado, Villareal y Rivera",Santa Lucía,118433.11,608488
+331,Proy-2019-incuba,Esparza-Galván A.C.,Lesotho,231933.56,388464
+332,Proy-2021-incuba,Esquivel-Ríos,Madagascar,77750.3,500448
+333,Proy-2017-incuba,Parra y Osorio S. R.L. de C.V.,Luxemburgo,56431.55,115192
+334,Proy-2020-escala,Despacho Cano-Macías,China,411118.59,1169000
+335,Proy-2016-redefine,"Industrias Riojas, Marroquín y Verdugo",Kazajstán,15212.38,145866
+336,Proy-2022-habilita,"Club Granado, Villareal y Rivera",Santa Lucía,0.0,0
+337,Proy-2018-visualiza,de Jesús e Hijos,Kirguistán,136470.79,284970
+338,Proy-2022-maximiza,Coronado-Torres,Kazajstán,83198.18,550584
+339,Proy-2020-cultiva,Salcido-Niño S.A.,Luxemburgo,0.0,0
+340,Proy-2021-monetiza,"Santillán, Alarcón y Carbajal",Sudán,161121.86,391300
+341,Proy-2023-fortalece,Coronado-Torres,Kazajstán,91114.77,447944
+342,Proy-2024-transforma,Parra y Osorio S. R.L. de C.V.,Luxemburgo,82860.89,299802
+343,Proy-2024-cultiva,Vera y Cardenas e Hijos,Santa Lucía,84693.4,358556
+344,Proy-2019-redefine,Esquivel-Ríos,Madagascar,190870.35,424320
+345,Proy-2022-mejora,Proyectos Zambrano-Benítez,Madagascar,135105.77,343440
+346,Proy-2019-itera,Salcido-Niño S.A.,Luxemburgo,416462.09,558624
+347,Proy-2020-incuba,Coronado-Torres,Kazajstán,392848.48,996000
+348,Proy-2019-libera,Proyectos Zambrano-Benítez,Madagascar,171425.01,658704
+349,Proy-2023-integra,de Jesús e Hijos,Kirguistán,393753.08,879816
+350,Proy-2024-incentiva,Durán-Pedraza,Luxemburgo,46399.64,413366
+351,Proy-2024-transforma,Romero-de Anda A.C.,Lesotho,16002.06,67048
+352,Proy-2017-integra,Barraza y Carvajal S.C.,Serbia,120971.6,177804
+353,Proy-2021-empodera,Barraza y Carvajal S.C.,Serbia,97950.45,371176
+354,Proy-2024-libera,Industrias Saldaña-Gastélum,China,182059.08,419630
+355,Proy-2022-extiende,Proyectos Zambrano-Benítez,Madagascar,164580.14,486324
+356,Proy-2025-redefine,"Industrias Riojas, Marroquín y Verdugo",Kazajstán,124672.81,413580
+357,Proy-2018-empodera,Barraza y Carvajal S.C.,Serbia,118208.6,332534
+358,Proy-2017-entrega,Salcido-Niño S.A.,Luxemburgo,41867.06,1057408
+359,Proy-2018-mejora,Club Robles y Ocasio,Madagascar,7852.09,206080
+360,Proy-2022-modifica,Durán-Pedraza,Luxemburgo,125516.16,306936
+361,Proy-2021-implementa,Coronado-Torres,Kazajstán,116118.11,268008
+362,Proy-2018-fortalece,Durán-Pedraza,Luxemburgo,470323.52,891802
+363,Proy-2020-genera,Club Robles y Ocasio,Madagascar,215016.07,1044950
+364,Proy-2021-explota,"Avilés, Rincón y Durán",Lesotho,0.0,0
+365,Proy-2023-fortalece,Esquivel-Ríos,Madagascar,412060.97,707168
+366,Proy-2024-redefine,"Industrias Riojas, Marroquín y Verdugo",Kazajstán,19281.05,205146
+367,Proy-2019-explota,Rubio y Gastélum S.C.,Kazajstán,230009.74,456528
+368,Proy-2018-libera,Esquivel-Ríos,Madagascar,0.0,0
+369,Proy-2021-crea,de Jesús e Hijos,Kirguistán,98268.6,228800
+370,Proy-2021-incentiva,Esquivel-Ríos,Madagascar,521481.1,1066312
+371,Proy-2020-crece,Esquivel-Ríos,Madagascar,440812.64,997800
+372,Proy-2020-crea,Vera y Cardenas e Hijos,Santa Lucía,112403.89,400200
+373,Proy-2021-sintetiza,Club Robles y Ocasio,Madagascar,106653.11,275600
+374,Proy-2021-optimiza,Despacho Cano-Macías,China,321688.18,1106456
+375,Proy-2021-extiende,Barraza y Carvajal S.C.,Serbia,4895.04,275132
+376,Proy-2019-mejora,Esquivel-Ríos,Madagascar,27550.35,101568
+377,Proy-2023-optimiza,"Márquez, Carbajal y Aranda",Serbia,0.0,0
+378,Proy-2024-extiende,Salcido-Niño S.A.,Luxemburgo,152755.18,524900
+379,Proy-2016-agrega,Proyectos Zambrano-Benítez,Madagascar,0.0,0
+380,Proy-2020-reinventa,"Avilés, Rincón y Durán",Lesotho,84275.71,526500
+381,Proy-2023-crea,Vera y Cardenas e Hijos,Santa Lucía,79959.63,133056
+382,Proy-2015-entrega,"Club Granado, Villareal y Rivera",Santa Lucía,87665.83,139320
+383,Proy-2020-habilita,Esquivel-Ríos,Madagascar,299261.76,515750
+384,Proy-2022-maneja,Esparza-Galván A.C.,Lesotho,223629.25,535410
+385,Proy-2016-mezcla,Esquivel-Ríos,Madagascar,70052.39,214032
+386,Proy-2016-sinergiza,Vera y Cardenas e Hijos,Santa Lucía,332612.1,891282
+387,Proy-2018-crece,Rubio y Gastélum S.C.,Kazajstán,171341.11,467912
+388,Proy-2019-sintetiza,Barraza y Carvajal S.C.,Serbia,43695.68,135312
+389,Proy-2021-redefine,"Industrias Riojas, Marroquín y Verdugo",Kazajstán,196429.58,1138956
+390,Proy-2017-itera,Romero-de Anda A.C.,Lesotho,199768.81,820952
+391,Proy-2020-itera,Durán-Pedraza,Luxemburgo,133920.87,1116400
+392,Proy-2016-visualiza,Club Robles y Ocasio,Madagascar,0.0,0
+393,Proy-2016-extiende,Esparza-Galván A.C.,Lesotho,57200.43,927738
+394,Proy-2018-itera,Industrias Saldaña-Gastélum,China,125351.61,329820
+395,Proy-2019-integra,Club Robles y Ocasio,Madagascar,286732.0,712080
+396,Proy-2022-crece,Vera y Cardenas e Hijos,Santa Lucía,80498.1,365526
+397,Proy-2016-orquesta,Romero-de Anda A.C.,Lesotho,25457.15,115668
+398,Proy-2019-monetiza,Esparza-Galván A.C.,Lesotho,18293.83,87456
+399,Proy-2023-fortalece,Club Robles y Ocasio,Madagascar,172320.5,687624
+400,Proy-2025-agrega,Club Robles y Ocasio,Madagascar,0.0,0
+401,Proy-2016-mejora,Industrias Saldaña-Gastélum,China,34932.33,150738
+402,Proy-2021-redefine,Salcido-Niño S.A.,Luxemburgo,29600.82,185900
+403,Proy-2024-reinventa,Industrias Saldaña-Gastélum,China,0.0,0
+404,Proy-2015-incentiva,Esquivel-Ríos,Madagascar,306962.15,442480
+405,Proy-2017-innova,"Santillán, Alarcón y Carbajal",Sudán,95886.32,144628
+406,Proy-2024-explota,Despacho Cano-Macías,China,277375.7,413714
+407,Proy-2021-orquesta,"Santillán, Alarcón y Carbajal",Sudán,303679.05,691496
+408,Proy-2022-monetiza,Esquivel-Ríos,Madagascar,237248.28,464778
+409,Proy-2024-integra,"Avilés, Rincón y Durán",Lesotho,0.0,0
+410,Proy-2018-modifica,Rubio y Gastélum S.C.,Kazajstán,21086.12,62238
+411,Proy-2020-maximiza,"Industrias Riojas, Marroquín y Verdugo",Kazajstán,39025.03,386450
+412,Proy-2017-abraza,Parra y Osorio S. R.L. de C.V.,Luxemburgo,21105.59,113872
+413,Proy-2025-crece,"Industrias Riojas, Marroquín y Verdugo",Kazajstán,265618.02,430980
+414,Proy-2025-implementa,de Jesús e Hijos,Kirguistán,0.0,0
+415,Proy-2022-transforma,Esparza-Galván A.C.,Lesotho,292558.54,1099170
+416,Proy-2023-explota,Proyectos Zambrano-Benítez,Madagascar,0.0,0
+417,Proy-2021-libera,Proyectos Zambrano-Benítez,Madagascar,43928.08,132080
+418,Proy-2019-crea,"Industrias Riojas, Marroquín y Verdugo",Kazajstán,187405.74,336768
+419,Proy-2018-incuba,"Santillán, Alarcón y Carbajal",Sudán,0.0,0
+420,Proy-2021-reinventa,"Santillán, Alarcón y Carbajal",Sudán,243610.91,504868
+421,Proy-2019-empodera,"Márquez, Carbajal y Aranda",Serbia,91492.61,308112
+422,Proy-2020-innova,"Santillán, Alarcón y Carbajal",Sudán,9655.85,66450
+423,Proy-2021-recontextualiza,Esquivel-Ríos,Madagascar,15259.74,198328
+424,Proy-2020-orquesta,"Avilés, Rincón y Durán",Lesotho,80896.22,323100
+425,Proy-2024-incuba,Club Robles y Ocasio,Madagascar,0.0,0
+426,Proy-2022-habilita,Proyectos Zambrano-Benítez,Madagascar,55902.87,266868
+427,Proy-2021-incuba,Proyectos Zambrano-Benítez,Madagascar,220492.29,683904
+428,Proy-2017-orquesta,Parra y Osorio S. R.L. de C.V.,Luxemburgo,178177.62,352308
+429,Proy-2017-visualiza,"Márquez, Carbajal y Aranda",Serbia,0.0,0
+430,Proy-2019-integra,"Avilés, Rincón y Durán",Lesotho,99790.78,243120
+431,Proy-2016-orquesta,Romero-de Anda A.C.,Lesotho,18152.71,575190
+432,Proy-2017-integra,"Márquez, Carbajal y Aranda",Serbia,45843.02,81400
+433,Proy-2023-habilita,"Avilés, Rincón y Durán",Lesotho,0.0,0
+434,Proy-2018-libera,Esquivel-Ríos,Madagascar,26884.52,720774
+435,Proy-2023-extiende,Vera y Cardenas e Hijos,Santa Lucía,192700.52,576856
+436,Proy-2016-entrega,Barraza y Carvajal S.C.,Serbia,101176.07,509334
+437,Proy-2024-escala,Club Robles y Ocasio,Madagascar,126969.4,384134
+438,Proy-2024-cultiva,Romero-de Anda A.C.,Lesotho,16864.7,69194
+439,Proy-2022-modifica,Esparza-Galván A.C.,Lesotho,66478.52,298566
+440,Proy-2019-habilita,"Avilés, Rincón y Durán",Lesotho,19284.89,52848
+441,Proy-2023-integra,Salcido-Niño S.A.,Luxemburgo,448723.44,731528
+442,Proy-2021-optimiza,Club Robles y Ocasio,Madagascar,74685.02,279864
+443,Proy-2018-utiliza,Esparza-Galván A.C.,Lesotho,410306.02,609454
+444,Proy-2023-maneja,Vera y Cardenas e Hijos,Santa Lucía,199557.16,546056
+445,Proy-2020-revoluciona,Barraza y Carvajal S.C.,Serbia,167610.2,285150
+446,Proy-2023-extiende,Rubio y Gastélum S.C.,Kazajstán,219180.47,731192
+447,Proy-2019-genera,de Jesús e Hijos,Kirguistán,187764.2,306768
+448,Proy-2021-itera,Romero-de Anda A.C.,Lesotho,192795.45,416936
+449,Proy-2022-mejora,"Avilés, Rincón y Durán",Lesotho,270599.55,500094
+450,Proy-2022-maneja,Rubio y Gastélum S.C.,Kazajstán,187390.36,547128
+451,Proy-2022-incuba,Proyectos Zambrano-Benítez,Madagascar,167221.32,357210
+452,Proy-2019-integra,Coronado-Torres,Kazajstán,64408.57,705312
+453,Proy-2017-transiciona,Vera y Cardenas e Hijos,Santa Lucía,155264.38,324324
+454,Proy-2016-modifica,Esparza-Galván A.C.,Lesotho,173883.69,638526
+455,Proy-2024-maximiza,Club Robles y Ocasio,Madagascar,193716.45,529250
+456,Proy-2018-cultiva,Parra y Osorio S. R.L. de C.V.,Luxemburgo,62756.08,334282
+457,Proy-2022-transiciona,"Industrias Riojas, Marroquín y Verdugo",Kazajstán,67767.45,181332
+458,Proy-2021-orquesta,"Santillán, Alarcón y Carbajal",Sudán,145811.99,523068
+459,Proy-2022-transiciona,Club Robles y Ocasio,Madagascar,295180.01,950454
+460,Proy-2017-implementa,de Jesús e Hijos,Kirguistán,299328.6,632676
+461,Proy-2018-compromete,Romero-de Anda A.C.,Lesotho,0.0,0
+462,Proy-2021-maneja,Coronado-Torres,Kazajstán,11371.15,280904
+463,Proy-2022-abraza,Durán-Pedraza,Luxemburgo,66486.58,349596
+464,Proy-2016-facilita,Proyectos Zambrano-Benítez,Madagascar,43776.9,87864
+465,Proy-2024-habilita,Proyectos Zambrano-Benítez,Madagascar,53148.04,226838
+466,Proy-2023-crece,"Avilés, Rincón y Durán",Lesotho,384602.98,1352960
+467,Proy-2016-mejora,Salcido-Niño S.A.,Luxemburgo,36123.1,157962
+468,Proy-2025-incuba,Salcido-Niño S.A.,Luxemburgo,85626.98,426240
+469,Proy-2022-recontextualiza,Esquivel-Ríos,Madagascar,68955.12,725598
+470,Proy-2021-fortalece,"Santillán, Alarcón y Carbajal",Sudán,276135.3,943540
+471,Proy-2016-evoluciona,Romero-de Anda A.C.,Lesotho,0.0,0
+472,Proy-2022-agrega,Romero-de Anda A.C.,Lesotho,54059.51,178848
+473,Proy-2016-genera,Romero-de Anda A.C.,Lesotho,108001.45,690102

@@ -1,0 +1,21 @@
+id_cliente,nombre_cliente,id_industria,id_pais,id_satisfaccion
+1,Durán-Pedraza,1,1,5
+2,Parra y Osorio S. R.L. de C.V.,2,1,3
+3,Proyectos Zambrano-Benítez,3,2,3
+4,"Industrias Riojas, Marroquín y Verdugo",4,3,5
+5,Barraza y Carvajal S.C.,5,4,2
+6,Esparza-Galván A.C.,6,5,5
+7,Industrias Saldaña-Gastélum,7,6,3
+8,Rubio y Gastélum S.C.,8,3,2
+9,Despacho Cano-Macías,9,6,5
+10,Vera y Cardenas e Hijos,10,7,3
+11,Coronado-Torres,11,3,4
+12,"Santillán, Alarcón y Carbajal",12,8,2
+13,de Jesús e Hijos,13,9,2
+14,Romero-de Anda A.C.,14,5,4
+15,Esquivel-Ríos,15,2,2
+16,Club Robles y Ocasio,16,2,2
+17,"Avilés, Rincón y Durán",17,5,3
+18,Salcido-Niño S.A.,18,1,2
+19,"Club Granado, Villareal y Rivera",19,7,2
+20,"Márquez, Carbajal y Aranda",20,4,3
